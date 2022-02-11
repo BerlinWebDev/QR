@@ -29,6 +29,10 @@ body {
   color: hsl(220, 15%, 55%);
 }
 
+.qr_title {
+  font-size: 20px;
+}
+
 img {
   border-radius: 4%;
   width: 280px;
